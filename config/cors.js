@@ -1,6 +1,6 @@
 export const allowedOrigins = [
   "http://localhost:3000",
-  "https://library-kamran.vercel.app"
+  "https://library-kamran.vercel.app",
 ];
 
 export const corOptions = {
